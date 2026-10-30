@@ -1,3 +1,13 @@
+## 0.17.16 (2026-10-30)
+
+### 🩹 Fixes
+
+- **skills-catalog:** run tlc scripts on windows and fail a broken mutation run ([de9114ceb](https://github.com/tech-leads-club/agent-skills/commit/de9114ceb))
+
+### ❤️ Thank You
+
+- Waldemar Neto @waldemarnt
+
 ## 0.17.15 (2026-10-26)
 
 ### 🚀 Features
