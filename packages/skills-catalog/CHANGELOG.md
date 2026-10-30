@@ -1,3 +1,13 @@
+## 0.17.17 (2026-10-30)
+
+### 🩹 Fixes
+
+- **skills-catalog:** clean dist before build so a rebuild does not nest skills/skills ([eabc1bef7](https://github.com/tech-leads-club/agent-skills/commit/eabc1bef7))
+
+### ❤️ Thank You
+
+- Waldemar Neto @waldemarnt
+
 ## 0.17.16 (2026-10-30)
 
 ### 🩹 Fixes
