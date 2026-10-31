@@ -1,3 +1,14 @@
+## 0.17.18 (2026-10-31)
+
+### 🚀 Features
+
+- **skills-catalog:** run the build line before building, name what follows ([f69e6154b](https://github.com/tech-leads-club/agent-skills/commit/f69e6154b))
+- **skills-catalog:** run proofs with the project's own test commands and drop mutations ([b9caf0c01](https://github.com/tech-leads-club/agent-skills/commit/b9caf0c01))
+
+### ❤️ Thank You
+
+- Waldemar Neto @waldemarnt
+
 ## 0.17.17 (2026-10-30)
 
 ### 🩹 Fixes
